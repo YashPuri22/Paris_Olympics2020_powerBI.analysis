@@ -1,6 +1,5 @@
 # Paris_Olympics2024_powerBI.analysis
-This project focuses on a exploratory data analysis and visualized data-driven evaluation. Our primary goal is to refine survey results, showcasing state-wise cases, vaccination data, and demographic insights.
-
+This project focuses on a exploratory data analysis and visualized data-driven evaluation. Our primary goal is to refine country-wise, month-wise and medal type wise olympic medals distribution analysis.
 # Data Analytical Principles and Data Visualization Tools used :
 Microsoft Power BI, Power Query and Microsoft Excel.
 
